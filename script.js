@@ -2,7 +2,7 @@ const config = {
     videos: [
         "https://fast.wistia.net/embed/iframe/wf1ub80nn4?seo=false&videoFoam=true",
         "https://fast.wistia.net/embed/iframe/7qdh8630z4?seo=false&videoFoam=true",
-        "https://fast.wistia.net/embed/iframe/rhgkngj4yv?seo=false&videoFoam=true"
+        "https://fast.wistia.net/embed/iframe/gkifyufj9m?seo=false&videoFoam=true"
     ],
     next_button: "Next video",
     previous_button: "Previous video",
